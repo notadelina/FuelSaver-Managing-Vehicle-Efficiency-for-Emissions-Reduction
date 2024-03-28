@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(FuelSaver_Managing_Vehicle_Efficiency_for_Emissions_Reduction)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(FuelSaver_Managing_Vehicle_Efficiency_for_Emissions_Reduction main.cpp)
